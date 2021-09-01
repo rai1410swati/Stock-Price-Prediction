@@ -1,0 +1,8 @@
+flask
+pandas
+numpy
+scikit-learn
+regex
+joblib
+Werkzeug
+gunicorn
